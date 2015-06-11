@@ -1,0 +1,16 @@
+5 level 5  is a palindrome.
+5 level 5  ERROR.
+madam  is a palindrome.
+madam  ERROR.
+abba  is a palindrome.
+abba  ERROR.
+able was    i ere i saw     elba  is NOT a palindrome.
+able was    i ere i saw     elba  ERROR.
+a man, a plan,       a canal panama  is NOT a palindrome.
+a man, a plan,       a canal panama  ERROR.
+palindrome  is NOT a palindrome.
+palindrome  ERROR.
+  is a palindrome.
+  ERROR.
+a&%   $#()+@ v$)(*   a  is NOT a palindrome.
+a&%   $#()+@ v$)(*   a  ERROR.
